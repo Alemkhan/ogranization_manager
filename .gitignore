@@ -6,3 +6,6 @@ migrations/
 
 #db
 db.sqlite3
+
+#pycache
+.pyc
